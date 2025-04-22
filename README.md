@@ -37,10 +37,8 @@ To run this project, you need to have the following installed:
 *   `docx2txt`
 *   `openai`
 *   `llama-index-readers-file`
-*   `sentence_transformers`
 *   `ipython`
 
 ## Conclusion:
 
 Upon comparison of the generated responses with the manual checking, the response is almost appropriate for the properly given query. Always response depends on the quality of query input that is fed to the system. Much more LLM integration with the quality input/query can make the system robust and close to the human thinking.
-
